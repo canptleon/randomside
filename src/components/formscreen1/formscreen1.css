@@ -1,0 +1,73 @@
+.form1header h1{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 42px;
+    
+    color: #000000;
+}
+
+h3{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.personal input{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    padding: 14px;
+}
+
+select{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    padding: 14px;
+}
+
+.checkboxes input{
+    border: 1px solid #17D67A;
+    box-sizing: border-box;
+    padding: 14px;
+    width: 25px;
+    height: 25px;
+}
+
+.checkboxes p{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+
+    text-align: center;
+    color: #000000;
+}
+
+.idealbody input{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    padding: 14px;
+}
+
+.btnsend{
+    padding: 14px 30px;
+    background: #000000;
+    color:#FFFFFF;
+}
+
+.getgreener{
+    cursor:pointer;
+}
+
+.getgreener:after{
+    background-color:green;
+}

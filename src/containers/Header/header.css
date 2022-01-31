@@ -1,0 +1,17 @@
+.header{
+    background: #000000;
+}
+
+h1{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 61px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}

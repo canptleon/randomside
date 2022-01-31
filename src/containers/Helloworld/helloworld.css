@@ -1,0 +1,20 @@
+.texts p{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #3D3C3C;
+}
+
+.texts h1{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 61px;
+    text-align:left;
+    
+    color: #000000;
+}

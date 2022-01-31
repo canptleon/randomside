@@ -1,0 +1,21 @@
+.form2header h1{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 42px;
+}
+
+.btnsend{
+    padding: 14px 30px;
+    background: #000000;
+    color:#FFFFFF;
+}
+
+.about textarea{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    padding: 14px;
+    white-space: pre-line;
+}

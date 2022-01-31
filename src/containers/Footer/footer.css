@@ -1,0 +1,14 @@
+.footer{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: white;
+    background-color: #000000;
+}
+
+.footer a{
+    color: white;
+}
